@@ -1,0 +1,5 @@
+// install shdcn ui
+
+npx shadcn-ui@latest init
+
+// import component
