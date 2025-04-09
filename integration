@@ -1,5 +1,6 @@
 // install shdcn ui
 
-npx shadcn-ui@latest init
+npm install class-variance-authority clsx tailwind-variants
 
+  npx shadcn@latest init
 // import component
